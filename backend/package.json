@@ -1,0 +1,27 @@
+{
+  "name": "lab9-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angular-Jokedose/lab9-express-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angular-Jokedose/lab9-express-app/issues"
+  },
+  "homepage": "https://github.com/Angular-Jokedose/lab9-express-app#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.16",
+    "moongoose": "0.0.5"
+  }
+}
